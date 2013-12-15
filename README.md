@@ -3,7 +3,7 @@ Roblox-Crawler 0.0
 
 This program is licensed under the MIT license found in the LICENSE file. Which much means you can do basically whatever you want with this project.
 
-This program will crawl the Roblox site looking for links.
+This program will crawl the Roblox site and record all page urls.
 
 Version 0.1
 -----------
