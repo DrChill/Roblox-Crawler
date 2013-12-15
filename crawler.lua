@@ -7,7 +7,7 @@
 web = require 'web'
 
 local homePage = 'http://www.roblox.com'
-local version = 0.1
+local version = 0.0
 
 print("============================")
 print("Starting Roblox Crawler v" .. version)

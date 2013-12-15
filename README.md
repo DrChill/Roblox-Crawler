@@ -5,6 +5,8 @@ This program is licensed uner the MIT license found in the LICENSE file. Which m
 
 This program will crawl the Roblox site looking for links.
 
+Current version: 0.0
+
 Version 0.1
 -----------
 * Crawl website
